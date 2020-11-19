@@ -153,12 +153,11 @@
   }
 
   .app-screen {
-    width: 80%;
+    width: 40%;
   }
 
   .steps-box:first-child {
     text-align: center;
-    padding: 0;
   }
 }
 /* Small phones 0-480px  */
