@@ -192,7 +192,6 @@ header {
     url(img/hero-min.jpg);
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   height: 100vh;
 }
 
@@ -413,7 +412,6 @@ header {
     url(img/back-customers-min.jpg);
   background-size: cover;
   color: #fff;
-  background-attachment: fixed;
 }
 
 blockquote {
